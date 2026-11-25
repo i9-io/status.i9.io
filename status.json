@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-25T23:02:14Z",
+  "generated_at": "2026-11-25T23:21:52Z",
   "stale_after_hours": 26,
   "items": [
     {
@@ -235,13 +235,13 @@
       "section": "Internal",
       "label": "Boltzmann",
       "state": "ok",
-      "detail": "1 unreleased, oldest 4 min; newest release on the asset host: yes"
+      "detail": "nothing unreleased; newest release on the asset host: yes"
     },
     {
       "section": "Internal",
       "label": "Avogadro",
-      "state": "unknown",
-      "detail": "not readable"
+      "state": "ok",
+      "detail": "success, 6 min ago"
     },
     {
       "section": "Internal",
