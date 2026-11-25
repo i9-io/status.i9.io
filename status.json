@@ -1,0 +1,253 @@
+{
+  "schema": 1,
+  "generated_at": "2026-11-25T22:02:35Z",
+  "stale_after_hours": 26,
+  "items": [
+    {
+      "section": "Latest stable",
+      "label": "Latest stable release",
+      "state": "ok",
+      "detail": "v2026.11.22.082544-ced641020, promoted 2026-11-22T10:31:12Z"
+    },
+    {
+      "section": "Latest stable",
+      "label": "The installer installs the stable release",
+      "state": "ok",
+      "detail": "every arch names it; release.json is signed"
+    },
+    {
+      "section": "Release and image integrity",
+      "label": "i9-linux-x86_64: present, sha256 matches release.json",
+      "state": "ok",
+      "detail": "39478696 bytes"
+    },
+    {
+      "section": "Release and image integrity",
+      "label": "i9-linux-arm64: present, sha256 matches release.json",
+      "state": "ok",
+      "detail": "36671664 bytes"
+    },
+    {
+      "section": "Release and image integrity",
+      "label": "i9-darwin-arm64: present, sha256 matches release.json",
+      "state": "ok",
+      "detail": "34588064 bytes"
+    },
+    {
+      "section": "Release and image integrity",
+      "label": "i9-windows-x86_64.exe: present, sha256 matches release.json",
+      "state": "ok",
+      "detail": "30933184 bytes"
+    },
+    {
+      "section": "Release and image integrity",
+      "label": "Signature and Sigstore bundle present",
+      "state": "ok",
+      "detail": "release.json.sig 206 \u00b7 release.json.sigstore.json 206"
+    },
+    {
+      "section": "Release and image integrity",
+      "label": "Stable release is not withdrawn",
+      "state": "ok",
+      "detail": "withdrawn.json 404"
+    },
+    {
+      "section": "Release and image integrity",
+      "label": "VM image for arm64 exists",
+      "state": "ok",
+      "detail": "374177141 bytes"
+    },
+    {
+      "section": "Release and image integrity",
+      "label": "VM image for x86_64 exists",
+      "state": "ok",
+      "detail": "401603287 bytes"
+    },
+    {
+      "section": "Routes",
+      "label": "/vm, as curl requests it",
+      "state": "ok",
+      "detail": "200"
+    },
+    {
+      "section": "Routes",
+      "label": "/vm/install.ps1",
+      "state": "ok",
+      "detail": "200"
+    },
+    {
+      "section": "Routes",
+      "label": "/vm/AGENTS.md",
+      "state": "ok",
+      "detail": "200"
+    },
+    {
+      "section": "Routes",
+      "label": "/vm/agent.md",
+      "state": "ok",
+      "detail": "301 to https://i9.io/vm/AGENTS.md"
+    },
+    {
+      "section": "Routes",
+      "label": "/vm/docs",
+      "state": "ok",
+      "detail": "200"
+    },
+    {
+      "section": "Routes",
+      "label": "/vm/docs/architecture",
+      "state": "ok",
+      "detail": "200"
+    },
+    {
+      "section": "Routes",
+      "label": "/vm/docs/cli",
+      "state": "ok",
+      "detail": "200"
+    },
+    {
+      "section": "Routes",
+      "label": "/vm/docs/data-handling",
+      "state": "ok",
+      "detail": "200"
+    },
+    {
+      "section": "Routes",
+      "label": "/vm/docs/getting-started",
+      "state": "ok",
+      "detail": "200"
+    },
+    {
+      "section": "Routes",
+      "label": "/vm/docs/gpl-source-offer",
+      "state": "ok",
+      "detail": "200"
+    },
+    {
+      "section": "Routes",
+      "label": "/vm/docs/how-to-install-manually",
+      "state": "ok",
+      "detail": "200"
+    },
+    {
+      "section": "Routes",
+      "label": "/vm/docs/how-to-install-your-agent",
+      "state": "ok",
+      "detail": "200"
+    },
+    {
+      "section": "Routes",
+      "label": "/vm/docs/how-to-measure-startup",
+      "state": "ok",
+      "detail": "200"
+    },
+    {
+      "section": "Routes",
+      "label": "/vm/docs/how-to-start-a-vm",
+      "state": "ok",
+      "detail": "200"
+    },
+    {
+      "section": "Routes",
+      "label": "/vm/docs/how-to-troubleshoot-setup",
+      "state": "ok",
+      "detail": "200"
+    },
+    {
+      "section": "Routes",
+      "label": "/vm/docs/installer",
+      "state": "ok",
+      "detail": "200"
+    },
+    {
+      "section": "Routes",
+      "label": "/vm/docs/manifest",
+      "state": "ok",
+      "detail": "200"
+    },
+    {
+      "section": "Routes",
+      "label": "/vm/docs/mcp-agent-tools",
+      "state": "ok",
+      "detail": "200"
+    },
+    {
+      "section": "Routes",
+      "label": "/vm/docs/mcp-tools",
+      "state": "ok",
+      "detail": "200"
+    },
+    {
+      "section": "Routes",
+      "label": "/vm/docs/routes",
+      "state": "ok",
+      "detail": "200"
+    },
+    {
+      "section": "Routes",
+      "label": "/vm/docs/spans",
+      "state": "ok",
+      "detail": "200"
+    },
+    {
+      "section": "Routes",
+      "label": "/vm/docs/support-matrix",
+      "state": "ok",
+      "detail": "200"
+    },
+    {
+      "section": "Routes",
+      "label": "/vm/docs/vdsl",
+      "state": "ok",
+      "detail": "200"
+    },
+    {
+      "section": "Routes",
+      "label": "a.i9.io/vm/manifest.json",
+      "state": "ok",
+      "detail": "200"
+    },
+    {
+      "section": "Release and image integrity",
+      "label": "Published binaries and VM images are one build",
+      "state": "ok",
+      "detail": "ok"
+    },
+    {
+      "section": "Release and image integrity",
+      "label": "The installer hands out a current binary",
+      "state": "fail",
+      "detail": "red"
+    },
+    {
+      "section": "Release and image integrity",
+      "label": "The VM image arches name one release",
+      "state": "ok",
+      "detail": "ok"
+    },
+    {
+      "section": "Internal",
+      "label": "Planck",
+      "state": "fail",
+      "detail": "177 commits behind main; 9 served changes not live"
+    },
+    {
+      "section": "Internal",
+      "label": "Boltzmann",
+      "state": "ok",
+      "detail": "nothing unreleased; newest release on the asset host: yes"
+    },
+    {
+      "section": "Internal",
+      "label": "Avogadro",
+      "state": "ok",
+      "detail": "success, 20 min ago"
+    },
+    {
+      "section": "Internal",
+      "label": "Hubble",
+      "state": "fail",
+      "detail": "failure, 16 h ago"
+    }
+  ]
+}
