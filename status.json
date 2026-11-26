@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-26T05:13:04Z",
+  "generated_at": "2026-11-26T05:33:51Z",
   "stale_after_hours": 26,
   "items": [
     {
@@ -229,13 +229,13 @@
       "section": "Internal",
       "label": "Planck",
       "state": "fail",
-      "detail": "189 commits behind main; 10 served changes not live"
+      "detail": "191 commits behind main; 10 served changes not live"
     },
     {
       "section": "Internal",
       "label": "Boltzmann",
       "state": "ok",
-      "detail": "1 unreleased, oldest 11 min; newest release on the asset host: yes"
+      "detail": "2 unreleased, oldest 13 min; newest release on the asset host: yes"
     },
     {
       "section": "Internal",
@@ -246,8 +246,8 @@
     {
       "section": "Internal",
       "label": "Hubble",
-      "state": "fail",
-      "detail": "failure, 23 h ago"
+      "state": "unknown",
+      "detail": "running, started 9 min ago"
     }
   ]
 }
