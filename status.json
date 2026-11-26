@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-26T17:20:02Z",
+  "generated_at": "2026-11-26T17:34:01Z",
   "stale_after_hours": 26,
   "items": [
     {
@@ -235,19 +235,19 @@
       "section": "Internal",
       "label": "Boltzmann",
       "state": "ok",
-      "detail": "1 unreleased, oldest 6 min; newest release on the asset host: yes"
+      "detail": "nothing unreleased; newest release on the asset host: yes"
     },
     {
       "section": "Internal",
       "label": "Avogadro",
-      "state": "unknown",
-      "detail": "not readable"
+      "state": "ok",
+      "detail": "success, 6 min ago"
     },
     {
       "section": "Internal",
       "label": "Hubble",
       "state": "fail",
-      "detail": "failure, 11 h ago"
+      "detail": "failure, 12 h ago"
     }
   ]
 }
