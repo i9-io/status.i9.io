@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-27T07:32:40Z",
+  "generated_at": "2026-11-27T09:44:49Z",
   "stale_after_hours": 26,
   "items": [
     {
@@ -240,14 +240,14 @@
     {
       "section": "Internal",
       "label": "Avogadro",
-      "state": "ok",
-      "detail": "success, 7 min ago"
+      "state": "fail",
+      "detail": "failure, 36 min ago"
     },
     {
       "section": "Internal",
       "label": "Hubble",
       "state": "fail",
-      "detail": "failure, 2 h ago"
+      "detail": "failure, 4 h ago"
     }
   ]
 }
