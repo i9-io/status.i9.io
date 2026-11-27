@@ -1,13 +1,13 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-27T01:50:23Z",
+  "generated_at": "2026-11-27T07:32:40Z",
   "stale_after_hours": 26,
   "items": [
     {
       "section": "Latest stable",
       "label": "Latest stable release",
       "state": "ok",
-      "detail": "v2026.11.26.233423-02ad9fd3b, promoted 2026-11-27T01:30:22Z"
+      "detail": "v2026.11.27.002046-9d6669eb4, promoted 2026-11-27T05:16:40Z"
     },
     {
       "section": "Latest stable",
@@ -55,13 +55,13 @@
       "section": "Release and image integrity",
       "label": "VM image for arm64 exists",
       "state": "ok",
-      "detail": "374810109 bytes"
+      "detail": "374734218 bytes"
     },
     {
       "section": "Release and image integrity",
       "label": "VM image for x86_64 exists",
       "state": "ok",
-      "detail": "402239348 bytes"
+      "detail": "402228024 bytes"
     },
     {
       "section": "Routes",
@@ -229,25 +229,25 @@
       "section": "Internal",
       "label": "Planck",
       "state": "fail",
-      "detail": "235 commits behind main; 10 served changes not live"
+      "detail": "242 commits behind main; 10 served changes not live"
     },
     {
       "section": "Internal",
       "label": "Boltzmann",
       "state": "ok",
-      "detail": "2 unreleased, oldest 9 min; newest release on the asset host: yes"
+      "detail": "nothing unreleased; newest release on the asset host: yes"
     },
     {
       "section": "Internal",
       "label": "Avogadro",
-      "state": "unknown",
-      "detail": "not readable"
+      "state": "ok",
+      "detail": "success, 7 min ago"
     },
     {
       "section": "Internal",
       "label": "Hubble",
       "state": "fail",
-      "detail": "failure, 20 h ago"
+      "detail": "failure, 2 h ago"
     }
   ]
 }
