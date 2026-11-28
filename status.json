@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-28T06:45:48Z",
+  "generated_at": "2026-11-28T07:26:07Z",
   "stale_after_hours": 26,
   "items": [
     {
@@ -216,8 +216,8 @@
     {
       "section": "Release and image integrity",
       "label": "The installer hands out a current binary",
-      "state": "ok",
-      "detail": "ok"
+      "state": "fail",
+      "detail": "red"
     },
     {
       "section": "Release and image integrity",
@@ -229,13 +229,13 @@
       "section": "Internal",
       "label": "Planck",
       "state": "fail",
-      "detail": "268 commits behind main; 10 served changes not live"
+      "detail": "270 commits behind main; 10 served changes not live"
     },
     {
       "section": "Internal",
       "label": "Boltzmann",
       "state": "ok",
-      "detail": "1 unreleased, oldest 3 min; newest release on the asset host: yes"
+      "detail": "2 unreleased, oldest 23 min; newest release on the asset host: yes"
     },
     {
       "section": "Internal",
@@ -247,7 +247,7 @@
       "section": "Internal",
       "label": "Hubble",
       "state": "fail",
-      "detail": "failure, 81 min ago"
+      "detail": "failure, 2 h ago"
     }
   ]
 }
