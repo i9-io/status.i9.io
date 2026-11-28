@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-28T02:42:48Z",
+  "generated_at": "2026-11-28T03:04:26Z",
   "stale_after_hours": 26,
   "items": [
     {
@@ -229,13 +229,13 @@
       "section": "Internal",
       "label": "Planck",
       "state": "fail",
-      "detail": "261 commits behind main; 10 served changes not live"
+      "detail": "263 commits behind main; 10 served changes not live"
     },
     {
       "section": "Internal",
       "label": "Boltzmann",
       "state": "ok",
-      "detail": "nothing unreleased; newest release on the asset host: yes"
+      "detail": "1 unreleased, oldest 12 min; newest release on the asset host: yes"
     },
     {
       "section": "Internal",
