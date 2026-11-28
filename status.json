@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-28T04:00:28Z",
+  "generated_at": "2026-11-28T04:28:47Z",
   "stale_after_hours": 26,
   "items": [
     {
@@ -229,7 +229,7 @@
       "section": "Internal",
       "label": "Planck",
       "state": "fail",
-      "detail": "264 commits behind main; 10 served changes not live"
+      "detail": "265 commits behind main; 10 served changes not live"
     },
     {
       "section": "Internal",
@@ -241,13 +241,13 @@
       "section": "Internal",
       "label": "Avogadro",
       "state": "ok",
-      "detail": "success, 6 min ago"
+      "detail": "success, 7 min ago"
     },
     {
       "section": "Internal",
       "label": "Hubble",
       "state": "fail",
-      "detail": "failure, 22 h ago"
+      "detail": "failure, 23 h ago"
     }
   ]
 }
